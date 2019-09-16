@@ -1,4 +1,4 @@
-# The-Hero-Ball-Game-Development-in-Unity
+# TheHeroBall-Game-Development-in-Unity
 The Hero Ball is developed in Unity Game Engine using C#. This game has three levels and has single player and multiplayer modes. In order to play, please download the above files and save them together in one folder.
 
 ## The Demo is available here:
